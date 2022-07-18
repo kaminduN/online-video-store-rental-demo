@@ -1,0 +1,74 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Spider-Man: Into the Spider-Verse (2018)",
+        "description": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities. ",
+        "keywords": [
+          "spiderman"
+        ],
+        "image": "1-groot.jpg",
+        "age": [
+          "12+"
+        ],
+        "price": 19.99,
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "name": "Escape Room (2019)",
+        "description": "Six strangers find themselves in circumstances beyond their control, and must use their wits to survive. ",
+        "keywords": [
+          "action figure", "toy story", "posable", "requires batteries"
+        ],
+        "image": "2-buzz.jpg",
+        "age": [
+          "13"
+        ],
+        "price": 38.50,
+        "rating": 2
+      },
+      {
+        "id": 3,
+        "name": "Green Book (2018)",
+        "description": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South. ",
+        "keywords": [
+          "Biography","Comedy","Drama","Music"
+        ],
+        "image": "3-minion-dave.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "id": 4,
+        "name": "Fantastic Beasts: The Crimes of Grindelwald (2018)",
+        "description": "The second installment of the 'Fantastic Beasts' series featuring the adventures of Magizoologist Newt Scamander. ",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "4-minion-kevin.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99,
+        "rating": 4
+      },
+      {
+        "id": 5,
+        "name": "The Mule (2018)",
+        "description": "A 90-year-old horticulturist and Korean War veteran is caught transporting $3 million worth of cocaine through Illinois for a Mexican drug cartel.",
+        "keywords": [
+          "drug"
+        ],
+        "image": "5-minion-bob.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99,
+        "rating": 3
+      }
+    ]
+  }

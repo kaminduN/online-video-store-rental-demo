@@ -1,0 +1,116 @@
+body {
+  margin: auto;
+  padding: 0 100px;
+  max-width: 1300px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+body .page-container {
+  padding: 20px 32px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.main-div {
+  background: #f1f1f1 none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 50%;
+  padding: 50px 70px 70px 71px;
+}
+
+.my-form
+{
+    /* background: #f1f1f1 none repeat scroll 0 0; */
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+
+.legend{
+  margin:0 0 10px;
+  border-bottom:1px solid #c5c5c5
+}
+
+.page-title-wrapper{
+  padding:40px 0
+}
+
+.login-container .block-new-customer{
+  float: right;
+}
+
+.block-title{
+  border-bottom:1px solid #c5c5c5;
+  padding-bottom:12px;
+  margin-bottom:30px
+}
+
+.shopping-cart {
+  margin-top: 20px;
+}
+
+.is-breakable {
+  word-break: break-word;
+}
+
+.card{
+  overflow: hidden;
+}
+
+/* .product-listing {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  flex-direction: row
+}
+
+.product-listing .product-list-item {
+  padding: 10px 30px;
+  width: 200px;
+} */
